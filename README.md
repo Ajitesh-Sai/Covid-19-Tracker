@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Covid-19-Tracker
 
-This is a React.js based project to track the number of active Covid-19 cases, number of recovered cases and deaths caused due to covid-19 globally and in any particular country. A line chart represents the increase number of infected cases recorded everyday worldwide. A bar chart represents the number of infected cases, number of recoveries and deaths in a particular country caused due to covid-19.
+This is a React.js based project to track the number of active Covid-19 cases, number of recovered cases and deaths caused due to covid-19 globally and in any particular country. A line chart represents the increase number of infected cases recorded everyday worldwide. A bar chart represents the number of infected cases, number of recoveries and deaths in a particular country caused due to covid-19. This project makes use of 'react-chartjs-2' to display the charts(graphs). 
 
 Source of data - https://covid19.mathdro.id/api
 
