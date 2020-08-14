@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![](Covid-19-Tracker-Images/pic1.png)
 
+![](Covid-19-Tracker-Images/pic2.png)
+
+![](Covid-19-Tracker-Images/pic3.png)
+
+![](Covid-19-Tracker-Images/pic4.png)
+
 
 
 ## Available Scripts
