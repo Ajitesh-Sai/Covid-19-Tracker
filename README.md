@@ -6,17 +6,17 @@ This is a React.js based project to track the number of active Covid-19 cases, n
 
 Source of data - https://covid19.mathdro.id/api
 
-![](Covid-19-Tracker-Images/pic1.png)
+![](Covid-19-Tracker-Images/pic_1.png)
 
-![](Covid-19-Tracker-Images/pic2.png)
+![](Covid-19-Tracker-Images/pic_2.png)
 
-![](Covid-19-Tracker-Images/pic3.png)
+![](Covid-19-Tracker-Images/pic_3.png)
 
-![](Covid-19-Tracker-Images/pic4.png)
+![](Covid-19-Tracker-Images/pic_4.png)
 
-![](Covid-19-Tracker-Images/pic5.png)
+![](Covid-19-Tracker-Images/pic_5.png)
 
-![](Covid-19-Tracker-Images/pic6.png)
+![](Covid-19-Tracker-Images/pic_6.png)
 
 
 
